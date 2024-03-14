@@ -24,7 +24,7 @@ cv.pdf: $(EN_DIR)/cv.tex $(EN_CV_SRCS)
 coverletter.pdf: $(EN_DIR)/coverletter.tex
 	$(CC) -output-directory=$(EN_DIR) $<
 
-it_resume.pdf: $(IT_DIR)/resume.tex $(EN_RESUME_SRCS)
+it_resume.pdf: $(IT_DIR)/resume.tex $(IT_RESUME_SRCS)
 	$(CC) -output-directory=$(IT_DIR) $<
 
 it_cv.pdf: $(IT_DIR)/cv.tex $(IT_CV_SRCS)
