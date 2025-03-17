@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740936662.99311 "cv.tex" "cv.pdf" "cv" 1740936664.462 2
+["pdflatex"] 1742221440.90842 "cv.tex" "cv.pdf" "cv" 1742221441.33526 2
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty" 1734129479 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -31,8 +31,8 @@
   "/opt/texlive/texdir/texmf-var/web2c/pdftex/pdflatex.fmt" 1740791895 3352537 e940bed0bb5df248bb28279b3d510b91 ""
   "/opt/texlive/texdir/texmf.cnf" 1740791727 555 bd60ff59e4d560b42d96b004436f91d3 ""
   "awesome-cv.cls" 1740933508.68029 29661 4d132c8c6640363dc2578e693cd02998 ""
-  "cv.aux" 1740934916.37966 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "cv.tex" 1740936662.27396 1868 2314251693a6d13f1e5f89906ef22b41 ""
+  "cv.aux" 1742221370.59545 72 e3975f61bf3f389acae1a5409d20f2c6 "pdflatex"
+  "cv.tex" 1742217484.77958 1859 85e50bc1dfa435880753344cb0754f53 ""
   (generated)
   "cv.aux"
   "cv.log"
